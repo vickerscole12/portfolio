@@ -2,7 +2,7 @@
 
 ## Projects
 
-### [Bank Churn Analysis](link-to-repo)
+### [Bank Churn Analysis](https://github.com/vickerscole12/bank-churn-analysis)
 Analyzes bank customer churn data using Python to identify patterns and predict customer attrition.  
 **Tech:** Python, Pandas, SciPy, Seaborn, scikit-learn, Logistic Regression, Random Forest, Jupyter Notebook
 
