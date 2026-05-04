@@ -6,7 +6,7 @@
 Analyzes bank customer churn data using Python to identify patterns and predict customer attrition.  
 **Tech:** Python, Pandas, SciPy, Seaborn, scikit-learn, Logistic Regression, Random Forest, Jupyter Notebook
 
-### [Marketing LLM Tool](link-to-repo)
+### [Marketing LLM Tool](https://github.com/vickerscole12/digital-marketing-llm)
 A web app for creating, storing, and tracking AI-generated marketing campaigns using Ollama LLMs.  
 **Tech:** HTML, CSS, JavaScript, Ollama
 
